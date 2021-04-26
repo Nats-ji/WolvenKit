@@ -69,5 +69,5 @@ jobs:
       uses: actions/upload-artifact@v2.2.1
       with:
         name: artifact_console-windows
-        path: ./CP77Tools/bin/Release/net5.0-windows
+        path: ./WolvenKit.CLI/bin/Release/net5.0-windows
   
